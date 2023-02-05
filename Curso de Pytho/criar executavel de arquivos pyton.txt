@@ -1,0 +1,12 @@
+Realizar instalção via pip do pacote pyinstaller
+
+comando -> pip install pyinstaller
+
+
+Estando como o terminal no diretorio do arquivo passar o seginte comando: 
+
+pyinstaller --onefile nomeDoArquivo.py
+
+Será criada um pasta dist no diretorio onde estara o arquivo exe. 
+
+ 
