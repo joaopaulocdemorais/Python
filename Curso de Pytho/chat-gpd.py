@@ -1,17 +1,15 @@
-import tkinter as tk
+# Solicita os valores iniciais da PA
+primeiro_termo = int(input("Digite o primeiro termo da PA: "))
+razao = int(input("Digite a razão da PA: "))
+num_termos = int(input("Digite o número de termos da PA: "))
 
-# Cria a janela principal
-janela = tk.Tk()
+# Gera a PA
+pa = []
+termo_atual = primeiro_termo
 
-# Define o título da janela
-janela.title("Minha Janela")
+for i in range(num_termos):
+    pa.append(termo_atual)
+    termo_atual += razao
 
-# Define o tamanho da janela (largura x altura)
-janela.geometry("200x100")
-
-# Cria um botão e o coloca na janela
-botao = tk.Button(janela, text="Clique aqui")
-botao.pack()
-
-# Inicia o loop da janela
-janela.mainloop()
+# Exibe a PA gerada
+print("A PA gerada é:", pa)
