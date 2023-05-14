@@ -10,4 +10,4 @@ while True:
     if 'S' != input('Quer continuar ? [S/N]').strip().upper():
         break
 print('-'*60)
-print(f'Você digitou os valores {sorted(numeros)}' )
+print(f'Você digitou os valores {sorted(numeros)}')
