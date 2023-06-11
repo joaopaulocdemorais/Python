@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cb39501-133c-4523-8603-c91e121b46ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/aula20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula20b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula20c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Curso de Pytho/ex094.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso de Pytho/ex095.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso de Pytho/ex095.py" afterDir="false" />
-    </list>
+    <list default="true" id="8cb39501-133c-4523-8603-c91e121b46ae" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
